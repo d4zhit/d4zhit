@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben D4zhit Root</h1>
+<h1 align="center">D4zhit Root</h1>
 <h3 align="center">3D,Web Security, Phishing GOD</h3>
 
 <h3 align="left">Connect with me:</h3>
